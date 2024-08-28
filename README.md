@@ -13,9 +13,7 @@ Etiquetado de Audios Crabados en el Centro de Humedales de Valdivia
 
 ## Paisaje sonoro en humedales
 
-## Instrumentación 
-
-## Mediciones
+## Instrumentación y mediciones
 
 ## Etiquetado
 
