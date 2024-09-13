@@ -1,0 +1,408 @@
+[
+  {
+    "audio": "\/data\/upload\/2\/31647d73-SMEW07_1574_mp3cut.net.wav",
+    "id": 3,
+    "label": [
+      {
+        "start": 1.0112359550561798,
+        "end": 6.067415730337078,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 10.112359550561797,
+        "end": 12.808988764044944,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 179.66292134831463,
+        "end": 194.1573033707865,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 213.37078651685394,
+        "end": 215.73033707865167,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 237.64044943820227,
+        "end": 255.1685393258427,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 267.64044943820227,
+        "end": 270,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 295.6179775280899,
+        "end": 300,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 0.6741573033707866,
+        "end": 19.55056179775281,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 27.30337078651685,
+        "end": 84.9438202247191,
+        "channel": 0,
+        "labels": [
+          "Viento"
+        ]
+      },
+      {
+        "start": 25.95505617977528,
+        "end": 87.64044943820225,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 43.146067415730336,
+        "end": 62.359550561797754,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 65.73033707865169,
+        "end": 74.15730337078651,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 76.85393258426966,
+        "end": 113.93258426966293,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 101.46067415730337,
+        "end": 106.51685393258428,
+        "channel": 0,
+        "labels": [
+          "Viento"
+        ]
+      },
+      {
+        "start": 103.82022471910112,
+        "end": 120.3370786516854,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 122.69662921348315,
+        "end": 130.78651685393257,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 137.19101123595505,
+        "end": 202.58426966292137,
+        "channel": 0,
+        "labels": [
+          "Viento"
+        ]
+      },
+      {
+        "start": 142.92134831460675,
+        "end": 149.6629213483146,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 156.74157303370788,
+        "end": 200.2247191011236,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 207.64044943820224,
+        "end": 221.46067415730337,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 224.8314606741573,
+        "end": 233.25842696629212,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 218.42696629213484,
+        "end": 231.91011235955057,
+        "channel": 0,
+        "labels": [
+          "Viento"
+        ]
+      },
+      {
+        "start": 236.29213483146066,
+        "end": 254.8314606741573,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 262.24719101123594,
+        "end": 288.53932584269666,
+        "channel": 0,
+        "labels": [
+          "Viento"
+        ]
+      },
+      {
+        "start": 274.7191011235955,
+        "end": 300,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 241.34831460674158,
+        "end": 244.04494382022474,
+        "channel": 0,
+        "labels": [
+          "persona"
+        ]
+      },
+      {
+        "start": 264.60674157303373,
+        "end": 271.0112359550562,
+        "channel": 0,
+        "labels": [
+          "persona"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2024-09-08T20:03:36.942040Z",
+    "updated_at": "2024-09-08T20:08:34.927557Z",
+    "lead_time": 1970.322
+  },
+  {
+    "audio": "\/data\/upload\/2\/e06d6329-SMEW07_1573_mp3cut.net.wav",
+    "id": 4,
+    "label": [
+      {
+        "start": 4.044943820224719,
+        "end": 31.01123595505618,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 12.134831460674157,
+        "end": 28.314606741573037,
+        "channel": 0,
+        "labels": [
+          "equipo"
+        ]
+      },
+      {
+        "start": 123.37078651685393,
+        "end": 125.73033707865169,
+        "channel": 0,
+        "labels": [
+          "persona"
+        ]
+      },
+      {
+        "start": 44.157303370786515,
+        "end": 47.86516853932584,
+        "channel": 0,
+        "labels": [
+          "equipo"
+        ]
+      },
+      {
+        "start": 40.1123595505618,
+        "end": 170.56179775280899,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 45.842696629213485,
+        "end": 67.41573033707866,
+        "channel": 0,
+        "labels": [
+          "Viento"
+        ]
+      },
+      {
+        "start": 70.1123595505618,
+        "end": 122.35955056179776,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 144.2696629213483,
+        "end": 148.31460674157302,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 158.4269662921348,
+        "end": 161.46067415730337,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 148.31460674157302,
+        "end": 185.0561797752809,
+        "channel": 0,
+        "labels": [
+          "Viento"
+        ]
+      },
+      {
+        "start": 181.34831460674158,
+        "end": 186.40449438202248,
+        "channel": 0,
+        "labels": [
+          "persona"
+        ]
+      },
+      {
+        "start": 189.43820224719101,
+        "end": 231.2359550561798,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 199.55056179775283,
+        "end": 210,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 213.37078651685394,
+        "end": 230.8988764044944,
+        "channel": 0,
+        "labels": [
+          "Viento"
+        ]
+      },
+      {
+        "start": 238.65168539325842,
+        "end": 247.75280898876406,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 280.1123595505618,
+        "end": 292.92134831460675,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 248.42696629213484,
+        "end": 280.1123595505618,
+        "channel": 0,
+        "labels": [
+          "Ave"
+        ]
+      },
+      {
+        "start": 297.97752808988764,
+        "end": 300,
+        "channel": 0,
+        "labels": [
+          "Bandada"
+        ]
+      },
+      {
+        "start": 265.6179775280899,
+        "end": 300,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 17.52808988764045,
+        "end": 44.157303370786515,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      },
+      {
+        "start": 128.08988764044943,
+        "end": 134.8314606741573,
+        "channel": 0,
+        "labels": [
+          "Vehículo"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2024-09-08T20:09:58.960447Z",
+    "updated_at": "2024-09-08T20:31:42.361909Z",
+    "lead_time": 1321.0320000000002
+  }
+]
