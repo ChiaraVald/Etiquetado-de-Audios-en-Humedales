@@ -1,5 +1,5 @@
 # Etiquetado de Audios en Humedales
-Etiquetado de Audios Crabados en el Centro de Humedales de Valdivia
+Este repositorio contiene el trabajo realizado para analizar grabaciones de audio del paisaje sonoro del Humeal Urbano Rio Cruces del Centro de Humedales. El jupyter notebook contiene la descripción de las grabaciones y proceso de etiquetado. 
 
 ## Librerías necesarias
 
